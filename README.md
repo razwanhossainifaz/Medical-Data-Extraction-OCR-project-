@@ -1,7 +1,3 @@
-Below is a **clean, professional `README.md`** you can directly use for your GitHub repository, based strictly on the three sections shown in the images (Prescription Document, Patient Details Document, FastAPI Server).
-
----
-
 # 🏥 Medical Data Extraction Project
 
 This repository contains a **Medical Data Extraction system** that processes medical documents (PDFs/images) to extract structured information such as **prescription details** and **patient details**, and exposes the functionality via a **FastAPI server**.
